@@ -5,7 +5,7 @@ package com.yuriyni.dsa.sorting;
  * поиск минимального элемента массива и его позицию
  * https://youtu.be/J8CbZYnJ5O8?si=WDMXuzv2LBbc9_kv
  */
-public class Main {
+public class MinValue {
 
 
     public static void main(String[] args) {
