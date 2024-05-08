@@ -2,7 +2,10 @@ package com.yuriyni.dsa.sorting;
 
 import java.util.Arrays;
 
-// просто по памяти пишу код
+/**
+ * ru: просто по памяти пишу код
+ *
+ */
 public class BubbleSort2 {
     public static void main(String[] args) {
         int arr[] = {44,1,55,66,47,87,12,45,76,91,49,20,31,45,81,23};

@@ -6,7 +6,7 @@ import java.util.function.IntConsumer;
 
 /**
  *     bubble sort algorithm
- *     алгоритм сортировки пузырьком
+ *     ru: алгоритм сортировки пузырьком
  *     https://youtu.be/aXyMkR8LGEo?si=SOCaoFfpg5b4vhtp
  */
 public class BubbleSort {

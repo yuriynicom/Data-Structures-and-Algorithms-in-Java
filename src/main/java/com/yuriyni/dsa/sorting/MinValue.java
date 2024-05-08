@@ -2,7 +2,7 @@ package com.yuriyni.dsa.sorting;
 
 /**
  * Algorithm to find minimum element in array
- * поиск минимального элемента массива и его позицию
+ * ru: поиск минимального элемента массива и его позицию
  * https://youtu.be/J8CbZYnJ5O8?si=WDMXuzv2LBbc9_kv
  */
 public class MinValue {

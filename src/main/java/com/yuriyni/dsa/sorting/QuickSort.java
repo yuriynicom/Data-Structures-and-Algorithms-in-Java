@@ -3,7 +3,7 @@ package com.yuriyni.dsa.sorting;
 import java.util.Arrays;
 
 /**
- * Java. Быстрая сортировка. Объяснение на пальцах)
+ * ru: Java. Быстрая сортировка. Объяснение на пальцах)
  * https://www.youtube.com/watch?v=CeHJV4zu_Ts&list=PL5BhKu-LkR_0mDGftRWeaakqGuYE1ToGG&index=5
  */
 public class QuickSort {

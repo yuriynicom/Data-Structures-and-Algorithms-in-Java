@@ -8,6 +8,7 @@ import static java.lang.Math.max;
 public class BestTimeToBuyAndSellStock {
 
     /**
+     * LeetCode #:121 Best Time to Buy and Sell Stock
      * https://www.youtube.com/watch?v=ioFPBdChabY
      *
      */
@@ -67,10 +68,6 @@ public class BestTimeToBuyAndSellStock {
         } catch ( Exception e) {
             e.printStackTrace();
         }
-
-
-
-
         System.out.println(new Date());
     }
 
